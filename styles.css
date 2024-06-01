@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#container{
+.container{
 	width:400px;
 	
 	justify-content:center;
@@ -7,16 +7,16 @@
 	border:10px solid black;
 	border-radius:20px;
 }
-#container2{
+.green{
 	width:100px;
 	height:100px;
 	background-color:green;
 	border-radius:100px;
 	display:inline-block;
 	text-align:center;
-	position:relative;
+	position:realtive;
 }
-#container3{
+.yellow{
 	width:100px;
 	height:100px;
 	background-color:yellow;
@@ -25,7 +25,7 @@
 	text-align:center;
 	position:relative;
 }
-#container4{
+.red{
 	width:100px;
 	height:100px;
 	background-color:red;
