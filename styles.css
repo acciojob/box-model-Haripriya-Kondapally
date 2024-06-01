@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+#container{
+	width:400px;
+	
+	justify-content:center;
+	padding:30px;
+	border:10px solid black;
+	border-radius:20px;
+}
+#container2{
+	width:100px;
+	height:100px;
+	background-color:green;
+	border-radius:100px;
+	display:inline-block;
+	text-align:center;
+	position:relative;
+}
+#container3{
+	width:100px;
+	height:100px;
+	background-color:yellow;
+	border-radius:100px;
+	display:inline-block;
+	text-align:center;
+	position:relative;
+}
+#container4{
+	width:100px;
+	height:100px;
+	background-color:red;
+	border-radius:100px;
+	display:inline-block;
+	text-align:center;
+	position:relative;
+}
